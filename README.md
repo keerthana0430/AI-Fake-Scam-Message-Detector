@@ -40,7 +40,8 @@ The application also provides basic safety recommendations.
 
 ## AI Fake / Scam Message Detector
 
----
+![Uploading image.png…]()
+
 
 # Problem Statement
 
